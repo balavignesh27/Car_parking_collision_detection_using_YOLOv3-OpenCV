@@ -1,1 +1,0 @@
-# Car_Parking_Sensor_using_YOLOv3-OpenCV
