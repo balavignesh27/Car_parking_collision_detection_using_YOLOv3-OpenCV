@@ -4,3 +4,5 @@ To run this code:
 1. Download the YOLOv3-320 configuration and weights in this program path.
 2. Install the requirements.txt
 3. Run the "main_cd.py"
+
+Please view the project demo in the given YouTube link: https://www.youtube.com/watch?v=C3t98dVlXhk 
